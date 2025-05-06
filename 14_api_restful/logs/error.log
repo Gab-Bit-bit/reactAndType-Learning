@@ -1,0 +1,77 @@
+2025-05-05 17:05:19:3819 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:29:3829 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:41:3941 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:41:3941 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:11:4011 - [31merror[39m: [31mNão foi possível conectar![39m
+2025-05-05 17:05:11:4011 - [31merror[39m: [31mNão foi possível conectar![39m
+2025-05-05 17:05:11:4011 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.k48390j.mongodb.net[39m
+2025-05-05 17:05:11:4011 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.k48390j.mongodb.net[39m
+2025-05-05 17:05:11:4011 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:20:4020 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:20:4020 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:39:4039 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:39:4039 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:25:4125 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:25:4125 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:31:4131 - [31merror[39m: [31mNão foi possível conectar![39m
+2025-05-05 17:05:31:4131 - [31merror[39m: [31mNão foi possível conectar![39m
+2025-05-05 17:05:05:435 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:05:435 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:27:5227 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:27:5227 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:06:536 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:06:536 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:30:5330 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:30:5330 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:06:546 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:06:546 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:09:549 - [35mhttp[39m: [35mGET /api/teste : status - - 3.350 ms[39m
+[35m[39m
+2025-05-05 17:05:13:5513 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 17:05:13:5513 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 17:05:17:5517 - [35mhttp[39m: [35mGET /api/teste : status 12 - 4.949 ms[39m
+[35m[39m
+2025-05-05 18:05:26:4126 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 18:05:26:4126 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 18:05:58:4358 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 18:05:58:4358 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 18:05:15:4415 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 18:05:15:4415 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 18:05:30:5130 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 18:05:30:5130 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:54:1454 - [35mhttp[39m: [35mPOST /api/movie : status 22 - 6.640 ms[39m
+[35m[39m
+2025-05-05 19:05:06:156 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:06:156 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:27:1727 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:27:1727 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:50:1750 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:50:1750 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:56:1756 - [35mhttp[39m: [35mPOST /api/movie : status 22 - 4.300 ms[39m
+[35m[39m
+2025-05-05 19:05:53:1853 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:53:1853 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:28:2028 - [35mhttp[39m: [35mPOST /api//Movies/Movie : status 157 - 5.691 ms[39m
+[35m[39m
+2025-05-05 19:05:06:216 - [35mhttp[39m: [35mPOST /api//Movie : status 150 - 0.868 ms[39m
+[35m[39m
+2025-05-05 19:05:03:223 - [35mhttp[39m: [35mPOST /api//Movies/movie : status 157 - 0.539 ms[39m
+[35m[39m
+2025-05-05 19:05:21:2221 - [35mhttp[39m: [35mPOST /api/movie : status 22 - 1.481 ms[39m
+[35m[39m
+2025-05-05 19:05:28:2228 - [35mhttp[39m: [35mPOST /api/teste : status 149 - 0.903 ms[39m
+[35m[39m
+2025-05-05 19:05:57:2257 - [35mhttp[39m: [35mGET /api/teste : status 12 - 0.786 ms[39m
+[35m[39m
+2025-05-05 19:05:12:2612 - [35mhttp[39m: [35mPOST /api/movie : status 22 - 0.593 ms[39m
+[35m[39m
+2025-05-05 19:05:24:2624 - [35mhttp[39m: [35mPOST /api/movie : status 22 - 0.236 ms[39m
+[35m[39m
+2025-05-05 19:05:09:279 - [35mhttp[39m: [35mPOST /api/movie : status 22 - 0.469 ms[39m
+[35m[39m
+2025-05-05 19:05:57:3157 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:57:3157 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:52:5452 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:52:5452 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
+2025-05-05 19:05:12:5612 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2025-05-05 19:05:12:5612 - [32minfo[39m: [32mServidor rodando na porta: 3000[39m
